@@ -2,6 +2,7 @@
 # Programas en Python de la clase
 
 Carlos Héctor Castañeda Ramírez
+castr@uaz.edu.mx
 
 ## Actividad 1
 - p01-hola-mundo
